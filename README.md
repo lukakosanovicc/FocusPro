@@ -1,5 +1,5 @@
 # 📖 Description<br>
-A simple and minimal app to keep you focused
+A simple and minimal app to keep you focused. The main feature is the intentionally annoying window that always stays on top of what you're currently doing, not letting you get sidetracked. It doesn't try to be something else, just a simple reminder that you can't move on to the next thing until this gets done.
 
 # 🚀 Installation & Deployment<br>
 ```bash
