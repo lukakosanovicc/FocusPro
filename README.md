@@ -16,7 +16,7 @@ python3 main.py
 ```
 - Or just download the release for your OS
 
-# ✈️ Features
+# 🎯 Features
 ![Screenshot 2025-05-31 195220](https://github.com/user-attachments/assets/f80c21d9-b9be-48c0-b4bd-eef3f9c4d745)
 
 # 📝 Data Format<br>
