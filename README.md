@@ -27,6 +27,21 @@ done.txt -> a file to store completed tasks<br>
 
 ## 👉 Accessing the files
 - tasks.txt is accessed within the application, but can also be found in `Documents > FocusPro` on Windows, and on MacOS:
+```bash
+cd Applications
+```
+```bash
+cd FocusPro
+```
+```bash
+cd Contents
+```
+```bash
+cd Resources
+```
+```bash
+open .
+```
 
 
 # 🤝 Contributing<br>
