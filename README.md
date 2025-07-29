@@ -26,7 +26,7 @@ done.txt -> a file to store completed tasks<br>
 - The tasks are intentionally stored in text files rather than binary, for easier manipulation outside of the application (sacrifising some speed for ease of use)
 
 ## 👉 Accessing the files
-- tasks.txt is accessed within the application, but can also be found in `Documents > FocusPro` on Windows, and on MacOS:
+- tasks.txt is accessed within the application, but both files can also be found in `Documents > FocusPro` on Windows, and on MacOS:
 ```bash
 cd Applications
 ```
@@ -42,7 +42,7 @@ cd Resources
 ```bash
 open .
 ```
-
+↳ or open the files with an editor like vim or nano
 
 # 🤝 Contributing<br>
 Contributions are welcome! Please open issues or submit pull requests for suggestions, improvements and ideas.
