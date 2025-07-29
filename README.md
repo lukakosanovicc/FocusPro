@@ -15,7 +15,7 @@ python3 main.py
 ↳ NOTE: you may need to `pip3 install` some modules to run the script
 - Or you can run the application by just downloading the release for your OS
 
-# 🎯 Features
+# 🎯 Features & Showcase
 ![FocusPro](https://github.com/user-attachments/assets/5f6288b1-96e2-46b4-a0b7-17032a8c9f2f)
 
 # 📝 Data Format<br>
