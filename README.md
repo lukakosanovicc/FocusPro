@@ -20,8 +20,10 @@ python3 main.py
 ![Screenshot 2025-05-31 195220](https://github.com/user-attachments/assets/f80c21d9-b9be-48c0-b4bd-eef3f9c4d745)
 
 # 📝 Data Format<br>
-tasks.txt -> a file to store flights<br>
-done.txt -> a file to store passengers<br>
+tasks.txt -> a file to store current tasks that need to be done<br>
+done.txt -> a file to store completed tasks<br>
+- The tasks are intentionally stored in text files rather than binary, for easier manipulation outside of the application (sacrifising some speed for ease of use)
+- 
 
 # 🤝 Contributing<br>
 Contributions are welcome! Please open issues or submit pull requests for suggestions, improvements and ideas.
