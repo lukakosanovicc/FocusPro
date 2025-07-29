@@ -8,7 +8,7 @@ git clone https://github.com/lukakosanovicc/FocusPro.git
 ```bash
 cd FocusPro
 ```
-`cd mac` or `cd windows` depending on your OS
+`cd mac` or `cd windows` depending on your OS and then:
 ```bash
 python3 main.py
 ```
