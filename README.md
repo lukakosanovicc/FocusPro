@@ -12,6 +12,7 @@ cd FocusPro
 ```bash
 python3 main.py
 ```
+↳ NOTE: you may need to `pip3 install` some modules to run the script
 - Or just download the release for your OS
 
 # 🎯 Features
