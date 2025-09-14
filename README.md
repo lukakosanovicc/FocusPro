@@ -17,6 +17,7 @@ python3 main.py
 
 # 🎯 Features & Showcase
 ![FocusPro](https://github.com/user-attachments/assets/5f6288b1-96e2-46b4-a0b7-17032a8c9f2f)
+PRO TIP: if you don't want to touch your mouse at all use tab and shift + tab to cycle through options, space to click the selected option
 
 # 📝 Data Format<br>
 tasks.txt -> a file to store current tasks that need to be done<br>
